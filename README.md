@@ -1,0 +1,1 @@
+This is a project in which I will copy and modify the Google homepage. I know the basics of HTML, and I will adjust the components of the page via CSS.
